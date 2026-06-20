@@ -1,7 +1,7 @@
 # 🍽️ Cognifyz Data Analysis Internship
 
 ## 📌 Overview
-This repository contains all the tasks completed during my **Data Analysis Internship at Cognifyz Technologies**. The project focuses on data cleaning, exploratory data analysis (EDA), visualization, geospatial analysis, and extracting valuable business insights from restaurant data.
+This repository contains all the tasks completed during my **Data Analysis Internship at Cognifyz IT Solution**. The project focuses on data cleaning, exploratory data analysis (EDA), visualization, geospatial analysis, and extracting valuable business insights from restaurant data.
 
 ## 🛠️ Technologies Used
 - Python
