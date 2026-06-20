@@ -10,7 +10,7 @@ This repository contains all the tasks completed during my **Data Analysis Inter
 - Matplotlib
 - Seaborn
 - Folium
-- Jupyter Notebook
+- Vs Code
 
 ---
 
