@@ -127,7 +127,7 @@ Through this internship, I gained practical experience in analyzing real-world d
 
 📧 meetm5266@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/meet-modi-09130b29a
+🔗 LinkedIn: www.linkedin.com/in/meet-modi-18b0b1338
 
 ---
 
